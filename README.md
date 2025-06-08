@@ -1,7 +1,3 @@
-# CompTIA Security+ Labs
-
-To gain practical experience in preparation for the CompTIA Security+ certification exam (SY0–601), it is recommended to complete the following hands-on laboratory exercises, all of which utilize freely available tools. It is highly advisable to conduct these labs within a virtualized environment, such as VMware or VirtualBox, in order to minimize the risk of compromising the security of your personal computing device. Under no circumstances should these labs be executed on workplace systems or employer-owned devices.
-
 # CompTIA Security+ (SY0-601) Labs
 
 This repository contains hands-on lab exercises designed to reinforce key objectives covered in the CompTIA Security+ (SY0-601) certification exam. All labs use free and open-source tools and are intended to be performed in a secure virtualized environment.
@@ -28,9 +24,9 @@ These labs are created to give learners practical experience with core cybersecu
 |--------:|--------------------------------------------------|-------------------------------------------------------|
 | Lab 1   | Credential Harvesting Using Site Cloning         | Simulates phishing techniques and credential capture |
 | Lab 2   | Network Scanning with Nmap                       | Discover hosts and services using Nmap               |
-| Lab 3   | Password Cracking with John the Ripper           | Practice password recovery from hashes               |
-| Lab 4   | File Integrity Monitoring with Tripwire          | Monitor file changes for signs of compromise         |
-| Lab 5   | Basic Firewall Rules with iptables               | Configure Linux-based firewall rules                 |
+| Lab 3   | Automation discovery with Recon-ng               | Find WHOIS informations on a target domain name      |
+| Lab 4   | Crack passowrd with Hydra                        | Dictionary attack to crack online password           |
+| Lab 5   | Cross Site Scripting XSS attack                  | Test website for an XSS vulunerability               |
 
 > New labs will be added regularly. Stay tuned!
 
